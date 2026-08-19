@@ -1,0 +1,6 @@
+{
+  "name": "Lançamentos Imobiliários Zona Leste",
+  "description": "Landing page exclusiva com empreendimentos na Mooca, Tatuapé e Vila Ema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
